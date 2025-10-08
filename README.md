@@ -1,4 +1,4 @@
-##GenAI Assistant for Education
+## GenAI Assistant for Education
 
 An interactive **Generative AI assistant** built with **Streamlit**, **n8n**, and **Pinecone** to support teachers and students through AI-powered summarization, question answering, and quiz generation.
 
