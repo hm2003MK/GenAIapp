@@ -5,8 +5,8 @@ An interactive **Generative AI assistant** built with **Streamlit**, **n8n**, an
 ---
 
 ## Live Demo
-🔗 [Open the Streamlit App](https://hm2003mk-genaiapp.streamlit.app)  
-💻 [View Source on GitHub](https://github.com/hm2003MK/GenAIapp)
+ [Open the Streamlit App](https://hm2003mk-genaiapp.streamlit.app)  
+ [View Source on GitHub](https://github.com/hm2003MK/GenAIapp)
 
 ---
 
