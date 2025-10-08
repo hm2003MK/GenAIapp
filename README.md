@@ -21,4 +21,4 @@ All AI interactions are routed through **n8n workflows**, using **Pinecone** as 
 
 ---
 
-## Architecture
+
