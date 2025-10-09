@@ -6,6 +6,7 @@ An interactive **Generative AI assistant** built with **Streamlit**, **n8n**, an
 
 ## Live Demo
  Open the Streamlit App: https://genaiapp-educationgsu.streamlit.app/
+ 
  [View Source on GitHub](https://github.com/hm2003MK/GenAIapp)
 
 ---
