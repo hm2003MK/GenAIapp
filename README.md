@@ -9,6 +9,8 @@ An interactive **Generative AI assistant** built with **Streamlit**, **n8n**, an
  
  [View Source on GitHub](https://github.com/hm2003MK/GenAIapp)
 
+ Youtube demo: https://youtu.be/hcLJSKUjzuM?si=nAKljycaC-0-LJmP
+
 ---
 
 ## Overview
